@@ -3019,8 +3019,7 @@
     padding: 12em 0 10em 0;
     background-image: url('../images/lax-coastline.jpg');
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: 50% 70%;
     background-repeat: no-repeat;
     text-align: center;
     border-top: 0.5em solid #5385c1;
